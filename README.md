@@ -39,7 +39,7 @@ class MiniLlamaArgs:
 ```
 
 ## Results
-Results can be seen in [](infer.ipynb) and [](visualize.ipynb)
+Results can be seen in [infer.ipynb](infer.ipynb) and [visualize.ipynb](visualize.ipynb)
 
 Even though the model is slightly smaller than GPT2 (124M vs 109M) it performed 
 - almost same on HellaSwag Eval 
